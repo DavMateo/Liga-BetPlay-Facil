@@ -1,0 +1,13 @@
+com/betplay/betplayfacil/manejoErrores/errConfirmacion.class
+com/betplay/betplayfacil/model/entity/Doctor.class
+com/betplay/betplayfacil/BetplayFacil.class
+com/betplay/betplayfacil/model/entity/Person.class
+com/betplay/betplayfacil/model/entity/Coach.class
+com/betplay/betplayfacil/view/viewDoctor.class
+com/betplay/betplayfacil/view/viewPlayer.class
+com/betplay/betplayfacil/Controller.class
+com/betplay/betplayfacil/view/viewTeam.class
+com/betplay/betplayfacil/manejoErrores/errOpNoEncontrada.class
+com/betplay/betplayfacil/model/entity/Team.class
+com/betplay/betplayfacil/model/entity/Player.class
+com/betplay/betplayfacil/view/viewCoach.class
